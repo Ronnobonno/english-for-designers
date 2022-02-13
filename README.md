@@ -10,4 +10,5 @@
 
 ## Contact
 
-steiniger.ronald@gmail.com
+- **mail**  steiniger.ronald@gmail.com
+- **[instagram]**(https://www.instagram.com/ronald_steiniger/)
