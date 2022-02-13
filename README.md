@@ -10,6 +10,6 @@
 
 ## Contact
 
-- **[mail](steiniger.ronald@gmail.com)**
+- steiniger.ronald@gmail.com
 - **[facebook](https://www.facebook.com/ronald.steiniger)**
 - **[instagram](https://www.instagram.com/ronald_steiniger/)**
