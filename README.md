@@ -2,7 +2,7 @@
 
 ## That's me!
 
-- [My story](https://https://github.com/RonaldRonno/english-for-designers/blob/main/03-aboutness/index.md)
+- [My story](https://https://RonaldRonno.github.io/english-for-designers/03-aboutness/index)
 - View CV
 
 ## Work
